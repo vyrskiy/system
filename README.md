@@ -3,7 +3,7 @@ _S. V. Vyrskiy_
 
 ISBN 978-3- 903115-71- 2 
   : © Vyrskiy Sergey Vladimirovich, Russia, Saratov
-  : E-mail: sergey.vyrskiy@gmail.com
+  : E-mail: `sergey.vyrskiy@gmail.com`
   
 UDC 599.89 
   : © “East West” Association for Advanced Studies and Higher Education GmbH, 2017.
