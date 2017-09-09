@@ -16,9 +16,3 @@ UDC 599.89
 [email]: <mailto:sergey.vyrskiy@gmail.com>
 [paper-eng]: <Manuscript-eng.pdf>
 [paper-rus]: <Manuscript-rus.pdf>
-
-```css
-  body h1:first-child {
-    display: none;
-  }
-```
