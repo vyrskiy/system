@@ -14,5 +14,5 @@ UDC 599.89
 * [Система видов африканских прямоходящих приматов периода 6.2–0.9 млн.лет][paper-rus]
 
 [email]: <mailto:sergey.vyrskiy@gmail.com>
-[paper-eng]: <./documents/Manuscript-eng.pdf>
-[paper-rus]: <./documents/Manuscript-rus.pdf>
+[paper-eng]: <Manuscript-eng.pdf>
+[paper-rus]: <Manuscript-rus.pdf>
