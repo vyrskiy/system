@@ -1,9 +1,10 @@
 body {
-  margin: auto 0;
+  text-align: center;
 }
 
 body > div {
   display: inline-block;
+  text-align: left;
 }
 
 h1 {
@@ -15,15 +16,16 @@ author {
   display: block;
   text-align: right;
   margin-bottom: 50px;
+  padding: 0 10px 10px 0;
   border-bottom: solid 1px #888;
 }
 
 dt {
   position: absolute;
   font-weight: 600;
-  width: 200px;
+  width: 180px;
 }
 
 dd {
-  padding: 0 0 20px 210px;
+  padding: 0 0 20px 180px;
 }
