@@ -2,7 +2,7 @@ body {
   text-align: center;
 }
 
-body > div {
+div {
   display: inline-block;
   text-align: left;
 }
