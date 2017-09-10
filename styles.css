@@ -1,0 +1,26 @@
+body {
+  margin: auto 0;
+}
+
+body > div {
+  display: inline-block;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+author {
+  font-style: italic;
+  float: right;
+}
+
+dt {
+  position: absolute;
+  font-weight: 600;
+  width: 300px;
+}
+
+dd {
+  padding-left: 310px;
+}
