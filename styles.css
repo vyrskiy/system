@@ -20,12 +20,63 @@ author {
   border-bottom: solid 1px #888;
 }
 
+p::first-letter {
+  padding-left: 8px;
+}
+
+dl {
+  border: solid 1px #888;
+  border-width: 1px 0;
+  padding-top: 20px;
+  font-size: 85%;
+}
+
 dt {
   position: absolute;
   font-weight: 600;
-  width: 180px;
+  width: 40%;
 }
 
 dd {
-  padding: 0 0 20px 180px;
+  padding: 0 0 20px 40%;
+}
+
+ol {
+  overflow-x: hidden;
+}
+
+ol li.none {
+  list-style: none;
+}
+
+ol li {
+  min-height: 22px;
+}
+
+ol li span:after {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+    content:
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+}
+
+ol li p {
+  display: inline;
+  float: right;
+  margin: 0;
+  padding: 0;
+  background-color: #FFF;
+}
+
+ol li span {
+  background-color: #FFF;
+  padding-right: 8px;
 }
