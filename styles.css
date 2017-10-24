@@ -42,6 +42,7 @@ dd {
 }
 
 ol.toc {
+  min-width: 590px;
   max-width: 1200px;
 }
 
