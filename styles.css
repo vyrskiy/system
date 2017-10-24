@@ -41,6 +41,10 @@ dd {
   padding: 0 0 20px 40%;
 }
 
+ol.toc {
+  max-width: 1200px;
+}
+
 ol {
   overflow-x: hidden;
 }
