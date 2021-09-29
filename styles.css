@@ -85,3 +85,9 @@ ol li span {
   background-color: #FFF;
   padding-right: 8px;
 }
+
+section:nth-child(n + 4) {
+  padding-top: 10px;
+  margin-top: 10px;
+  border-top: dashed 1px #AAA;
+}
