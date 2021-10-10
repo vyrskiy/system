@@ -22,11 +22,20 @@ section h6 {
   font-size: 20px;
 }
 
-section:nth-child(n + 4) {
+section:nth-child(n + 4), footer {
   padding-top: 15px;
   border-top: dashed 1px #AAA;
 }
 
 p {
   margin-top: 0;
+}
+
+p em {
+  display: block;
+}
+
+footer {
+  width: 100%;
+  text-align: right;
 }
