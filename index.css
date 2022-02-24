@@ -30,3 +30,12 @@ section:nth-child(n + 5) {
 p {
   margin-top: 0;
 }
+
+p em {
+  display: block;
+}
+
+footer {
+  width: 100%;
+  text-align: right;
+}
