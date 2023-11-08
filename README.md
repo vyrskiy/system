@@ -10,6 +10,10 @@ UDC 599.89
   : Subscribe to print 30/01/2017
   
 ## Links
+* [The phyletic relationship between bipedal primates from Africa and from Dmanisi, Georgia (Europe)][relationship-eng]
+* [Филетические (родовые) отношения между двуногими приматами из Африки и из Дманиси, Грузия (Европа)][relationship-rus]
+* [The Issues of Classification and Phylogenetic Position of Australopithecus sediba][classification-eng]
+* [The Issues of Classification and Phylogenetic Position of Australopithecus sediba (rus)][classification-rus]
 * [Reconstruction of African Bipedal Primates’ Phylogeny Based on the Adaptive Species Axiom][reconstruction-eng]
 * [Реконструкция филогении африканских прямоходящих приматов на основе аксиомы адаптивного вида][reconstruction-rus]
 * [Review of the Homo naledi Fossil Collection from South Africa Using the Biological Species Concept][review-eng]
@@ -18,6 +22,10 @@ UDC 599.89
 * [Система видов африканских прямоходящих приматов периода 6.2–0.9 млн.лет][paper-rus]
 
 [email]: <mailto:sergey.vyrskiy@gmail.com>
+[relationship-eng]: https://lupinepublishers.com/anthropological-and-archaeological-sciences/pdf/JAAS.MS.ID.000297.pdf
+[relationship-rus]: The_Phyletic_Relationship-rus.pdf
+[classification-eng]: The_Issues_of_Classification.pdf
+[classification-rus]: The_Issues_of_Classification-rus.pdf
 [reconstruction-eng]: <Reconstruction-eng.pdf>
 [reconstruction-rus]: <Reconstruction-rus.pdf>
 [review-eng]: <Review-eng.pdf>
